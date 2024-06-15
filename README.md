@@ -1,2 +1,2 @@
 # Pakhi-Mail
-A clone of Gmail
+A complete Gmail clone
